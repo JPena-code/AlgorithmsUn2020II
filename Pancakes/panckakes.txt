@@ -1,0 +1,10 @@
+Number of Panckakes: 8
+Flips needed: 6
+Flips needed: 7
+Flips needed: 8
+Flips needed: 9
+Number of Panckakes: 9
+Flips needed: 8
+Flips needed: 9
+Flips needed: 10
+Flips needed: 11
